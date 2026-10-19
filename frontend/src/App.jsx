@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <h1>khan</h1>
+    <h1 className='bg-amber-200'>khan</h1>
     </>
   )
 }
